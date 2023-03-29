@@ -4,5 +4,6 @@ saya memiliki beberapa rencana untuk masa depan diantaranya adalah
 - fokus pada bagian fron end terlebih dahulu
 - membuat sebuah webside untuk fortofolio
 
-keninginan
+cita-cita
 - ingin membuat webside pribadi
+- ingin menjadi web devoloper full stack
